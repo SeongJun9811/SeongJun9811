@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm SeongJun Honh
 
 <!--
 **SeongJun9811/SeongJun9811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
