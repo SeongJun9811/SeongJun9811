@@ -31,8 +31,8 @@
 7. 빅데이터분석기사
 
 ###### Skills
-![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=dsds&logoColor=rgb&logoSize=auto&label=Python&labelColor=-&color=-&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=-&logoColor=rgb&logoSize=auto&label=R&labelColor=-&color=-&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=dsds&logoColor=rgb&logoSize=auto&label=Python&labelColor=-&color=-&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=-&logoColor=rgb&logoSize=auto&label=SAS&labelColor=-&color=-&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=-&logoColor=rgb&logoSize=auto&label=Spss&labelColor=-&color=-&cacheSeconds=3600)
 
