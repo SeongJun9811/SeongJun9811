@@ -1,7 +1,7 @@
 ## Hi, I'm SeongJun Hong
 
 ###### Education
-- `2017.03 - 2023.02`  　   강원대학교 정보통계학과 학사(Bachelor of Science in Statistics, Kangwon National University)
+- `2017.03 - 2023.02`  　   강원대학교 정보통계학과 학사(B.S in Statistics, Kangwon National University)
 - `2023.03 - Present`  　  중앙대학교 응용통계학과 석사
 
 ###### Interest
