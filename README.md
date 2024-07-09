@@ -16,7 +16,7 @@
 - `2024.04 - 2024.06`　 가구원 수가 일-생활균형에 미치는 영향에 대한 베이지안 잠재계층모형 분석 = Bayesian Latent Class Analysis of the Impact of Household Size on Work-Life Balance(제11회 산업안전보건 조사자료 논문 경진대회, [**가작 수상**](https://oshri.kosha.or.kr/oshri/customerInformation/papercontestnotice.do?mode=view&articleNo=450491&article.offset=0&articleLimit=10)).
 
 ###### Paper
-[Mun, S.-K., Chang, M., Hwang, B.S., Hong, S.J.^, Lee, S.Y., Park, S.J. and Lee, H.-J. (2024) Social distancing during the COVID-19 pandamic: Potential impact and correlation with asthma. Heart & Lung, 68, 18-22.](https://www.sciencedirect.com/science/article/abs/pii/S014795632400102X)
+[Mun, S.-K., Chang, M., Hwang, B.S., **Hong, S.J.**, Lee, S.Y., Park, S.J. and Lee, H.-J. (2024) Social distancing during the COVID-19 pandamic: Potential impact and correlation with asthma. Heart & Lung, 68, 18-22.](https://www.sciencedirect.com/science/article/abs/pii/S014795632400102X)
 
 
 ###### Freelancer Project
