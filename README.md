@@ -50,7 +50,7 @@
 ###### E-Mail
 tjdrkdwns555@naver.com
 
-###### Request for analysis cite
+###### Request for analysis site
 https://kmong.com/gig/533914
 
 https://pioommarket.com/view.php?num=4286
