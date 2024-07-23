@@ -25,8 +25,9 @@
 자세한 분석 분석 내용은 Repositories에 있습니다.
 
 - SAS를 이용한 PS매칭분석 의뢰 = SAS PS Maching
-- 범주형 데이터간 상관성분석과 잔차 진단  = Categorical Data Correlation and residual diagnostics
-- 뉴스 데이터 크롤링과 텍스트 데이터 빈도 분석 = 
+- 범주형 데이터간 상관성분석과 잔차 진단  = Categorical Data Correlation and Residual Diagnostics
+- 뉴스 데이터 크롤링과 텍스트 데이터 빈도 분석 = Text Frequency Analysis
+- 메타 분석 = 
 
 ###### Certificate
 1. 한국사능력검정시험 1급
