@@ -30,7 +30,7 @@
 - 메타 분석 = Meta Analysis
 - 춘천시 정신건강 만족도 조사 = Chuncheon Survey Analysis
 
-등 총 10건의 의뢰를 진행.
+등 **총 10건의 의뢰**를 진행.
 
 ###### Certificate
 1. 한국사능력검정시험 1급
