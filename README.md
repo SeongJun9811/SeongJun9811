@@ -20,6 +20,10 @@
 
 
 ###### Freelancer Project
+재능마켓에서 분석의뢰를 받아 1명의 석사과정생과 같이 진행한 프로젝트들 입니다([분석의뢰 공고 사이트 이동](https://kmong.com/gig/533914)).
+
+- SAS를 이용한 PS매칭분석 의뢰 = SAS PS-Maching
+- 
 
 ###### Certificate
 1. 한국사능력검정시험 1급
