@@ -28,7 +28,7 @@
 - 범주형 데이터간 상관성분석과 잔차 진단  = Categorical Data Correlation and Residual Diagnostics
 - 뉴스 데이터 크롤링과 텍스트 데이터 빈도 분석 = Text Frequency Analysis
 - 메타 분석 = Meta Analysis
-- 춘천시 정신건강 만족도 조사 = 
+- 춘천시 정신건강 만족도 조사 = Chuncheon-Survey-Analysis
 
 ###### Certificate
 1. 한국사능력검정시험 1급
