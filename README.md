@@ -34,13 +34,13 @@
 등 **총 11건의 의뢰**를 진행.
 
 ###### Certificate
-1. 한국사능력검정시험 1급
-2. 컴퓨터활용능력 1급
+1. 빅데이터분석기사
+2. 정보처리기사
 3. 사회조사분석사 2급
 4. 데이터분석준전문가(ADSP)
 5. SQL개발자(SQLD)
-6. 정보처리기사
-7. 빅데이터분석기사
+6. 컴퓨터활용능력 1급
+7. 한국사능력검정시험 1급
 
 ###### Skills
 ![Static Badge](https://img.shields.io/badge/-brightgreen?style=social&logo=-&logoColor=rgb&logoSize=auto&label=R&labelColor=-&color=-&cacheSeconds=3600)
