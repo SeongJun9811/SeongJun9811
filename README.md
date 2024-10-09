@@ -29,8 +29,9 @@
 - 뉴스 데이터 크롤링과 텍스트 데이터 빈도 분석 = Text Frequency Analysis
 - 메타 분석 = Meta Analysis
 - 춘천시 정신건강 만족도 조사 = Chuncheon Survey Analysis
+- 머신러닝을 이용한 경도인지장애 예측 = Prediction of mild cognitive impairment using machine learning
 
-등 **총 10건의 의뢰**를 진행.
+등 **총 11건의 의뢰**를 진행.
 
 ###### Certificate
 1. 한국사능력검정시험 1급
