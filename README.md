@@ -24,7 +24,7 @@ Hong, S.J. and Hwang, B.S. (2025) Bayesian median autoregressive models for cons
 
 
 ###### Freelancer Project
-재능마켓에서 분석의뢰를 받아 1명의 석사과정생과 같이 진행한 의뢰들 입니다([분석의뢰 공고 사이트 이동](https://kmong.com/gig/533914)).
+재능마켓에서 분석의뢰를 받아 1명의 석사과정생과 같이 진행한 의뢰들 입니다.
 
 자세한 분석 분석 내용은 Repositories에 있습니다.
 
@@ -54,11 +54,6 @@ Hong, S.J. and Hwang, B.S. (2025) Bayesian median autoregressive models for cons
 
 ###### E-Mail
 tjdrkdwns555@naver.com
-
-###### Request for analysis site
-https://kmong.com/gig/533914
-
-https://pioommarket.com/view.php?num=4286
 
 
 
