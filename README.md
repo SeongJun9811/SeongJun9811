@@ -18,7 +18,7 @@
 
 
 ###### Paper
-Hong, S.J. and Hwang, B.S. (2025) Bayesian median autoregressive models for consumer price index prediction. The Korean Journal of Applied Statistics. In press.
+[**Hong, S.J**. and Hwang, B.S. (2025) Bayesian median autoregressive models for consumer price index prediction. The Korean Journal of Applied Statistics. 38(2), 251-263.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12154091)
 
 [Mun, S.-K., Chang, M., Hwang, B.S., **Hong, S.J.**, Lee, S.Y., Park, S.J. and Lee, H.-J. (2024) Social distancing during the COVID-19 pandamic: Potential impact and correlation with asthma. Heart & Lung, 68, 18-22.](https://www.sciencedirect.com/science/article/abs/pii/S014795632400102X)
 
