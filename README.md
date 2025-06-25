@@ -2,7 +2,7 @@
 
 ###### Education
 - `2017.03 - 2023.02`　 강원대학교 정보통계학과 이학사(B.S. in Statistics, Kang-Won National University)
-- `2023.03 - Present`　 중앙대학교 응용통계학과 통계학 석사(M.A. in Statistics, Chung-Ang University)
+- `2023.03 - 2025.02`　 중앙대학교 응용통계학과 통계학 석사(M.A. in Statistics, Chung-Ang University)
 
 ###### Interest
 - Bayesian Statistics
